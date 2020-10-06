@@ -1,2 +1,2 @@
 # python_project1
- Project 1 for Python Tech Degree
+ Project 1 for Python Tech Degree at Treehouse
